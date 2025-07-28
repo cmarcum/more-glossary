@@ -14,4 +14,4 @@ A Food and Drug Administration–National Institutes of Health Collaboration. JA
 [https://www.doi.org/10.1001/jamanetworkopen.2025.16674](https://www.doi.org/10.1001/jamanetworkopen.2025.16674)
 
 # License
-As a work of the federal government, the content of the MORE glossary is in the public domain. The code supporting the template is available under an [MIT license](License) and is distributed here [https://github.com/cmarcum/jekyll-glossary/tree/main](https://github.com/cmarcum/jekyll-glossary/tree/main).
+As a work of the federal government, the content of the MoRE glossary is in the public domain. The code supporting the template is available under an [MIT license](License) and is distributed here [https://github.com/cmarcum/jekyll-glossary/tree/main](https://github.com/cmarcum/jekyll-glossary/tree/main).
