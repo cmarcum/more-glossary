@@ -1,0 +1,4 @@
+---
+term: "Computable phenotype"
+definition: "A clinical condition or characteristic that can be ascertained using a computerized query to data sources (e.g., electronic health record data, clinical data repository, or administrative claims database) using a defined set of data elements and logical expressions. Computable phenotype definitions provide the specifications for identifying populations likely to have the conditions or characteristics of interest. [Source](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/real-world-data-assessing-electronic-health-records-and-medical-claims-data-support-regulatory)"
+---

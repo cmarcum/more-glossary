@@ -1,0 +1,4 @@
+---
+term: "Sequential, multiple assignment, randomized trial (SMART)"
+definition: "A trial designed to evaluate a collection of interventions guided by a sequence of decision rules that specifies when and how the type and/or intensity of an intervention should be modified, depending on the patient’s past or present characteristics and/or ongoing clinical state or performance (e.g., response, adherence), to optimize clinically important outcomes. In such a trial, patients move along multiple stages and are randomly assigned to one of several suitable intervention options at each stage. [Source](https://researchmethodsresources.nih.gov/)"
+---

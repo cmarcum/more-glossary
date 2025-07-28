@@ -1,0 +1,6 @@
+---
+term: "Missing data"
+definition: "Data that would have been used in the study analysis but were not observed, collected, or accessible. These refer to information that was intended to be collected but is absent and information that was not intended to be collected and is therefore absent.
+
+In a clinical trial, these are data that would be meaningful for the analysis of a given estimand but were not collected. They should be distinguished from data that do not exist or data that are not considered meaningful because of an intercurrent event. In real-world data sources (e.g., electronic health records or claims), there may be special considerations; for example, such data are generally not collected for primary research purposes and therefore may not have systematic data capture to answer a research question. [Source 1](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/real-world-data-assessing-electronic-health-records-and-medical-claims-data-support-regulatory) [Source 2](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9r1-statistical-principles-clinical-trials-addendum-estimands-and-sensitivity-analysis-clinical)"
+---

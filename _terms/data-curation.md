@@ -1,0 +1,4 @@
+---
+term: "Data curation"
+definition: "Processing of source data (unstructured and/or structured data) into a dataset suitable for analyses. The curation process involves the application of standards for the exchange, integration, sharing, and retrieval of source data, often from various sources. For example, the application of standard medical diagnostic codes to adverse events, disease staging, the progression of disease, and other medical and clinical concepts. [Source](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cvm-gfi-266-use-real-world-data-and-real-world-evidence-support-effectiveness-new-animal-drugs)"
+---

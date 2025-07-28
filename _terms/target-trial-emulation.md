@@ -1,0 +1,4 @@
+---
+term: "Target trial emulation"
+definition: "A framework for designing and analyzing an observational study based on conceptualizing a target randomized trial to answer a scientific question and designing the observational study to mimic the trial estimand(s) (including specification of population eligibility criteria, treatment strategies and assignment procedures, outcomes, handling of intercurrent events, and follow-up period). [Source](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.21383&utm_campaign=articlePDF%26utm_medium=articlePDFlink%26utm_source=articlePDF%26utm_content=jamanetworkopen.2025.16674)"
+---
