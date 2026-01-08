@@ -10,8 +10,8 @@
 }
 html { scroll-behavior: smooth; }
 body {
-    /* Uses a modern, system-native font stack instead of an imported web font */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    /* Uses high-quality, open-source sans-serif fonts */
+    font-family: 'Inter', 'Roboto', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.7;
     background-color: var(--bg-color);
     color: var(--text-color);
@@ -93,4 +93,5 @@ footer { text-align: center; margin-top: 4rem; padding-top: 2rem; border-top: 1p
     background-color: var(--accent-color);
     border-color: var(--accent-color);
 }
+
 .btn-primary:hover { opacity: 0.9; }
