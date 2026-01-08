@@ -27,22 +27,23 @@ title: FDA-NIH Modernizing Research and Evidence (MoRE) Glossary
     {% endfor %}
   </nav>
 
-  <main>
-    {% for group in grouped_terms %}
-    <section id="{{ group.name }}" class="glossary-section">
-      <h2>{{ group.name }}</h2>
-      <dl>
-        {% for item in group.items %}
-          <dt>{{ item.term }}</dt>
-          <dd>{{ item.definition | markdownify }}</dd>
-        {% endfor %}
-      </dl>
-    </section>
-    {% unless forloop.last %}<hr>{% endunless %}
-    {% endfor %}
-  </main>
+<main>
+  {% for group in grouped_terms %}
+  <section id="{{ group.name }}" class="glossary-section">
+    <h2>{{ group.name }}</h2>
+    <dl>
+      {% for item in group.items %}
+        <dt id="{{ item.slug | default: item.term | slugify }}">{{ item.term }}</dt>
+        <dd>{{ item.definition | markdownify }}</dd>
+      {% endfor %}
+    </dl>
+  </section>
+  {% unless forloop.last %}<hr>{% endunless %}
+  {% endfor %}
+</main>
 
   <footer>
     <a href="#top" class="back-to-top">↑ Back to Top</a>
   </footer>
 </div>
+
