@@ -60,7 +60,7 @@ header h1 { font-size: 3.5rem; font-weight: 700; color: var(--heading-color); ma
     margin-bottom: 1.5rem;
 }
 dl { margin: 0; }
-dt { font-size: 1.2rem; font-weight: 600; color: var(--heading-color); margin-top: 1.5rem; }
+dt { font-size: 1.2rem; font-weight: 600; color: var(--heading-color); margin-top: 1.5rem; scroll-margin-top: 80px; }
 dd { margin-left: 0; padding-left: 1rem; border-left: 3px solid var(--border-color); color: #495057; }
 hr { border: 0; border-top: 1px solid var(--border-color); margin: 0; }
 footer { text-align: center; margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-color); }
@@ -95,3 +95,4 @@ footer { text-align: center; margin-top: 4rem; padding-top: 2rem; border-top: 1p
 }
 
 .btn-primary:hover { opacity: 0.9; }
+
